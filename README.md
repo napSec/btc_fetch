@@ -37,12 +37,30 @@ To use "fetch' command globally, add the alias command to your ~/.bashrc file:
 
 Usage 
 
-If you added the fetch alias to your ~/.bashrc file or entered it in terminal
+
 
   In Terminal:
     $ fetch 
+![image](https://user-images.githubusercontent.com/113065386/207977420-3f4d77a0-87ab-4d2e-a650-22640fd8148e.png)
 
-![image](https://user-images.githubusercontent.com/113065386/207973553-e69fbe61-f465-40d9-b7ec-c58ce4e132a7.png)
+Next, enter the bitcoin wallet address that you want the transaction history:
+
+  ![image](https://user-images.githubusercontent.com/113065386/207978267-ab0fcd3b-45aa-4642-bbee-00649fb89ba7.png)
+
+
+
+Next, enter the start date:
+
+  ![image](https://user-images.githubusercontent.com/113065386/207978103-41ce6850-b46b-47e0-af74-bcaea9529ede.png)
+
+Then, enter the end date:
+
+  ![image](https://user-images.githubusercontent.com/113065386/207978587-a71b5122-55f7-48b6-924c-d9ca22f5d70f.png)
+
+The results 
+
+![image](https://user-images.githubusercontent.com/113065386/207979655-c6b698f3-7548-4dfc-b319-76dd98262fc3.png)
+
 
 
 
